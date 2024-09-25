@@ -1,6 +1,6 @@
 ## AutomationframeworkRelatedquestion
 1. explain the automation framework of your project
-2. Did you the develop the framework from sractch
+2. Did you develop the framework from sractch
 3. What was your part in the automation framework
 4. What is the size of your automation test scripts
 5. How frequently you are executing your suite
