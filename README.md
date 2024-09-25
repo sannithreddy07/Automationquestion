@@ -26,6 +26,7 @@
 18. Types of Locators and xpaths
 19. How do you handle dynamic web elements
 20. How do you handle dynamic webtable/pagination/datepickers
+21. how do you handle credentilas (like encrypting)
 ## Java
 1. What is JVM , JRE, JDK
 2. what are different types of access modifiers
@@ -85,4 +86,26 @@
 12. what is mean by plugins, dry run, strict, monochrome, publish attributes in cucumber options
 13. how do you run failed scenarios in cucumber
 14. How do you capture failed screenshot
+# API Testing
+## Postman
+1. what are different types of authentications
+2. What is an API
+3. Explain client server architecture
+4. what http vs https
+5. what is URI, URL, URN
+6. What are endpoints and  path parameters and query parameters
+7. What are different types of error codes and brief them and how do you handle those
+8. how do you handle data driven testing in postman
+9. what are different methods in postman
+10. what are collections
+11. what are variables and types of variables where we can define
+12. How do you encrypt the credentilas
+13. How do you write test cases in postman
+14. what is API chaining
+15. what are assertions in postman
+16. What is request body and response body
+## RestAssured
+1. What are static packages used in RestAssured framework
+
+
     
