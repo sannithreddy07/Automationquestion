@@ -54,7 +54,7 @@
 24. what is this keyword
 25. what is mean by wrapper class and how do you do data conversion
 26. what is mean by public staic void main and can we overload/override main method ?
-27. [Coding link](https://github.com/sannithreddy07/java.git)
+27. [Coding questions link](https://github.com/sannithreddy07/java.git)
 ## TestNG
 1. what is TEstNG
 2. What are different types of annotations used and there order
